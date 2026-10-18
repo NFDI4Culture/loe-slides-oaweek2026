@@ -1,0 +1,30 @@
+# .gitignore for Quarto projects
+
+# Build outputs
+_freeze/
+
+# Quarto cache
+.quarto/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.Rproj.user/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Node
+node_modules/
+
+/.quarto/
+
+**/*.quarto_ipynb
