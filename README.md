@@ -1,4 +1,4 @@
-# NCP-slides
+# Slides
 
 A presentation built with [Quarto](https://quarto.org) and rendered with [Reveal.js](https://revealjs.com).
 
